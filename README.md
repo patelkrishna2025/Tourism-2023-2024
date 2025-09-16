@@ -13,12 +13,12 @@ Tourism is a powerful engine of economic growth, cultural exchange, and regional
 4. Moreover, tourism data is often underutilized due to its volume and complexity. There is a pressing need for intuitive visualization tools that can simplify this data and make it actionable. This project addresses this gap by building a comprehensive Tableau dashboard that presents tourism insights clearly and interactively, enabling policymakers, travel agencies, and investors to make informed, impactful decisions that support balanced and sustainable tourism development.
 
 ## Question of (KPIs)
-Bar Chart: Tourists by Region
-Pie Chart: Tour Type Distribution
-Bar Chart: Tourists by Year
-Grouped Bar Chart: Revenue vs Expense vs Profit
-Circle with Bar Chart: Season-wise Tourist Share
-Line: Accommodation Chart
+- Bar Chart: Tourists by Region
+- Pie Chart: Tour Type Distribution
+- Bar Chart: Tourists by Year
+- Grouped Bar Chart: Revenue vs Expense vs Profit
+- Circle with Bar Chart: Season-wise Tourist Share
+- Line: Accommodation Chart
 
 ## Key Insights and Findings
 1. Western and Southern regions lead in tourist volume and revenue.

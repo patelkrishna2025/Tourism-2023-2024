@@ -7,10 +7,10 @@ Tourism is a powerful engine of economic growth, cultural exchange, and regional
 - <a href= "https://github.com/patelkrishna2025/Tourism-2023-2024/blob/3f7eb3fef980e41d25b29f25e0adb2891b2ac17f/Tourism%20Summary.xlsx"> Title for dataset</a>
 
 ## Problem Statement
-• Tourism in India is a rapidly expanding sector that significantly contributes to the nation’s GDP, employment generation, and regional development. Despite this, there is a pronounced disparity in how tourism is distributed and developed across various states and regions. While some destinations—like Goa, Kerala, and Rajasthan—continue to attract millions of visitors annually and generate high revenues, others remain under explored or underfunded, missing out on economic opportunities.
-• This uneven growth is further complicated by the lack of integrated, data-driven decision-making frameworks. Most policy efforts rely on fragmented reports or outdated statistics that do not provide real-time or granular insights. Tourism boards and planning authorities often struggle to understand which regions are lagging, what kind of tourism (wildlife, beach, religious, etc.) is performing best, and how seasonal or accommodation-related trends are influencing profitability.
-• Without a consolidated and interactive view of key indicators—such as tourist inflow, average spend per visitor, revenue, and profit margins—stakeholders cannot develop targeted strategies or allocate resources efficiently. This results in lost opportunities for local communities, inefficient marketing campaigns, and suboptimal infrastructure investments.
-• Moreover, tourism data is often underutilized due to its volume and complexity. There is a pressing need for intuitive visualization tools that can simplify this data and make it actionable. This project addresses this gap by building a comprehensive Tableau dashboard that presents tourism insights clearly and interactively, enabling policymakers, travel agencies, and investors to make informed, impactful decisions that support balanced and sustainable tourism development.
+1. Tourism in India is a rapidly expanding sector that significantly contributes to the nation’s GDP, employment generation, and regional development. Despite this, there is a pronounced disparity in how tourism is distributed and developed across various states and regions. While some destinations—like Goa, Kerala, and Rajasthan—continue to attract millions of visitors annually and generate high revenues, others remain under explored or underfunded, missing out on economic opportunities.
+2. This uneven growth is further complicated by the lack of integrated, data-driven decision-making frameworks. Most policy efforts rely on fragmented reports or outdated statistics that do not provide real-time or granular insights. Tourism boards and planning authorities often struggle to understand which regions are lagging, what kind of tourism (wildlife, beach, religious, etc.) is performing best, and how seasonal or accommodation-related trends are influencing profitability.
+3. Without a consolidated and interactive view of key indicators—such as tourist inflow, average spend per visitor, revenue, and profit margins—stakeholders cannot develop targeted strategies or allocate resources efficiently. This results in lost opportunities for local communities, inefficient marketing campaigns, and suboptimal infrastructure investments.
+4. Moreover, tourism data is often underutilized due to its volume and complexity. There is a pressing need for intuitive visualization tools that can simplify this data and make it actionable. This project addresses this gap by building a comprehensive Tableau dashboard that presents tourism insights clearly and interactively, enabling policymakers, travel agencies, and investors to make informed, impactful decisions that support balanced and sustainable tourism development.
 
 ## Question of (KPIs)
 Bar Chart: Tourists by Region
@@ -46,6 +46,6 @@ Line: Accommodation Chart
 • Excel (data cleaning and preprocessing)
 
 ## Reference
-• Tourism dataset (custom Excel file: Tourism.xlsx)
-• UN Sustainable Development Goals: https://sdgs.un.org/goals
-• Internal data processing & derived insights
+- Tourism dataset (custom Excel file: Tourism.xlsx)
+- UN Sustainable Development Goals: https://sdgs.un.org/goals
+- Internal data processing & derived insights

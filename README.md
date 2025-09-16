@@ -42,8 +42,8 @@ Line: Accommodation Chart
 - Seasonal campaign optimization to reduce overcrowding
 
 ## Tools and Technologies Used
-• Tableau (dashboard and visuals)
-• Excel (data cleaning and preprocessing)
+- Tableau (dashboard and visuals)
+- Excel (data cleaning and preprocessing)
 
 ## Reference
 - Tourism dataset (custom Excel file: Tourism.xlsx)
